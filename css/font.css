@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("../fonts/IRANSansWeb/IRANSansWeb.woff2") format("woff2"),
+    url("../fonts/IRANSansWeb/IRANSansWeb.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("../fonts/IRANSansWeb/IRANSansWeb_Bold.woff2") format("woff2"),
+    url("../fonts/IRANSansWeb/IRANSansWeb_Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url("../fonts/IRANSansWeb/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansWeb(FaNum)";
+  src: url("../fonts/IRANSansWeb/IRANSansWeb\(FaNum\)_Medium.woff2")
+      format("woff2"),
+    url("../fonts/IRANSansWeb/IRANSansWeb\(FaNum\)_Medium\(1\).woff2")
+      format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sahel";
+  src: url("../fonts/IRANSansWeb/Sahel.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("../fonts/IRANSansWeb/IRANSansWeb_Light.woff2") format("woff2"),
+    url("../fonts/IRANSansWeb/IRANSansWeb_Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("../fonts/IRANSansWeb/IRANSansWeb_Medium.woff") format("woff2"),
+    url("../fonts/IRANSansWeb/IRANSansWeb_Medium\(1\).woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IRANSansWeb";
+  src: url("../fonts/IRANSansWeb/Sahel-Black.woff") format("woff2"),
+    url("../fonts/IRANSansWeb/Sahel-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

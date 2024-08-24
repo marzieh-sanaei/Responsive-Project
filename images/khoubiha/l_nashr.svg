@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="50" viewBox="0 0 107 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a2722d;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="-2" y="0" width="113" height="56" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.408" dy="2.649" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="-18" y="0" width="129" height="56" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.408" dy="2.649" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="_1" data-name="1" class="cls-1" d="M107,50V0H95.094c-31.8,0-64.22,50-95,50H107Z"/>
+  <path id="_2" data-name="2" class="cls-2" d="M-17,50H10.094c30.78,0,63.2-50,95-50H107V50H-17Z"/>
+</svg>
