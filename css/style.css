@@ -71,8 +71,8 @@ body.sticky-navbar .nav-items {
 }
 
 body.sticky-navbar .logo {
-  width: 157px;
-  height: 40px;
+  width: 54px;
+  height: auto;
   z-index: 40;
 }
 
@@ -345,7 +345,9 @@ header .right-svg {
 
 .header-right .logo {
   z-index: 2;
-  margin-left: 5px;
+  margin-left: 60px;
+  width: 69px;
+  height: auto;
 }
 
 .header-left {
@@ -1301,7 +1303,7 @@ header .right-svg {
 }
 
 .wrapper-monthly {
-  height: 294px;
+  height: auto;
   padding: 15px;
 }
 
@@ -2001,7 +2003,6 @@ header .right-svg {
   font-family: "IRANSansWeb(FaNum)", sans-serif;
   position: relative;
   z-index: 2;
-  min-height: 793px;
   background-color: #fff;
   border-radius: 18px;
   padding: 40px;
@@ -2595,8 +2596,11 @@ header .right-svg {
   }
 
   .container.visual::before {
-    height: 560px;
+    height: 518px;
     top: -50px;
+  }
+  .visual-reports .content {
+    padding-bottom: 0;
   }
 
   .visual-reports .swiper-slide {
@@ -2748,6 +2752,9 @@ body.sticky-navbar .header-right {
   .container.video::after {
     bottom: -85px;
   }
+  .visual-reports .content {
+    padding-bottom: 20px;
+  }
 
   .main-video {
     order: 2;
@@ -2813,6 +2820,9 @@ body.sticky-navbar .header-right {
     right: 25px;
     top: 204px;
     border-radius: 32px;
+  }
+  body.sticky-navbar .logo{
+    margin-top: 10px;
   }
 
   .life-verses .fg-white {
@@ -2964,7 +2974,7 @@ body.sticky-navbar .header-right {
   }
 
   .container.visual::before{
-    height: 632px;
+    height: 570px;
   }
 
   .visual-reports .swiper {
@@ -3032,12 +3042,6 @@ body.sticky-navbar .header-right {
   body.sticky-navbar .nav-items {
     justify-content: center !important;
     gap: 30px;
-  }
-  
-  body.sticky-navbar .logo {
-    width: 157px;
-    height: 40px;
-    z-index: 40;
   }
   
   body.sticky-navbar .header-right {
@@ -3411,9 +3415,6 @@ body.sticky-navbar .header-right {
     padding: 16px 15px 29px 16px;
   }
 
-  .wrapper-monthly .row:nth-child(2) .text {
-    height: 174px;
-  }
 
   .container.life {
     transform: translateY(-135px);
@@ -3497,10 +3498,6 @@ body.sticky-navbar .header-right {
 
   .institutes-news .news-list .content {
     padding-right: 10px;
-  }
-
-  .wrapper-monthly {
-    min-height: 310px;
   }
 
   .wrapper-monthly .row:nth-child(2) .col-5 {
@@ -3623,7 +3620,6 @@ body.sticky-navbar .header-right {
   }
 
   .verses_logo div {
-    width: 149px;
     height: 64px;
   }
 
@@ -3654,10 +3650,6 @@ body.sticky-navbar .header-right {
 
   .visual-reports {
     height: 582px;
-  }
-
-  .provinces {
-    min-height: 566px;
   }
 
   .provinces .news-item:nth-child(1) {
