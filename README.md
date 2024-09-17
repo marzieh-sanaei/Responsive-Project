@@ -1,7 +1,7 @@
 # Responsive Project
 - Demo Project
 - Developed by Marzieh Sanaei
-- Technologies Used -HTML, CSS, JavaScript
+- Technologies Used -HTML, CSS, Bootstrap ,JavaScript , Swiper
 - Role -frontend
 - How to reach me : my
 [linkedin](https://www.linkedin.com/in/marzieh-sanaei99)
